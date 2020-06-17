@@ -8,5 +8,5 @@ Matlab code for SNnet
 | **Title** | Semi-NMF network for image classification |
 | **Conference** | Chinese Control Conference 2019 (Oral) | 
 | **PDF** | [Link](https://github.com/libertyhhn/SNnet) |
-
-![alt text](images/SemiNMFnet.png)
+<br>
+<img src="../images/SemiNMFnet.png">
